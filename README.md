@@ -2,15 +2,14 @@
 <h3 align="center">A passionate developer and programmer from India.</h3>
 
 
-- 🌱 I’m a frontend developer at Helpshift and currently learning **about opensource**
+- 🌱 I’m a frontend developer at Rentickle and currently learning about Microfrontend
 
 - 👯 I’m looking to collaborate with **web developers and opensource contributors**
 
-- 👨‍💻 Personal Portfolio Website [http://muditgarg.vercel.app](http://muditgarg.vercel.app)
 
 - 💬 Ask me about **Algorithms.**
 
-- 📫 Reach me at **muditgarg1996@yahoo.com**
+- 📫 Reach me at **muditgargnsut@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
